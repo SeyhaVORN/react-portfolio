@@ -18,15 +18,15 @@ const App = () => {
     <div className='bg-white relative'>
       <Header />
       <Hero />
-      <Brands />
+      {/*<Brands />*/}
       <About />
       <Skills />
       <Portfolio />
-      <Services />
-      <Testimonials />
-      <Contact />
+      {/*<Services />*/}
+      {/*<Testimonials />*/}
+      {/*<Contact />*/}
       <Footer />
-      <BackTopBtn />
+      {/*<BackTopBtn />*/}
     </div>
   );
 };

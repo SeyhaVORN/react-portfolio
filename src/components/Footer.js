@@ -22,10 +22,11 @@ const Footer = () => {
             })}
           </div>
           <div>
-            <img src={Logo} alt='' />
+            {/*<img src={Logo} alt='' />*/}
+              {/*<h1 className='text-4xl leading-[44px] md:text-5xl md:leading-tight lg:text-4xl lg:leading-[1.2] font-bold md:tracking-[-2px]'>Seyha VORN</h1>*/}
           </div>
           <p className='text-paragraph opacity-80 text-[15px]'>
-            &copy; 2022 Cristian Mihai. All rights reserved.
+            &copy; 2022 <a href="https://www.linkedin.com/in/seyha-vorn/">Seyha VORN</a>. All rights reserved.
           </p>
         </div>
       </div>
